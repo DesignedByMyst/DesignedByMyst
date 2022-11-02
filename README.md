@@ -20,12 +20,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/luximitae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luximitae" height="30" width="40" /></a>
-<a href="https://www.behance.net/luximitae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luximitae" height="30" width="40" /></a>
-<a href="https://fb.com/luximitae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luximitae" height="30" width="40" /></a>
-<a href="https://twitter.com/luximitae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luximitae" height="30" width="40" /></a>
-<a href="https://instagram.com/luximitae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luximitae" height="30" width="40" /></a>
-<a href="https://dribbble.com/luximitae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="luximitae" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucialmmorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucialmmorais" height="30" width="40" /></a>
+<a href="https://www.behance.net/lucialmmorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucialmmorais" height="30" width="40" /></a>
+<a href="https://fb.com/lucialmmorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucialmmorais" height="30" width="40" /></a>
+<a href="https://twitter.com/lucialmmorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucialmmorais" height="30" width="40" /></a>
+<a href="https://instagram.com/lucialmmorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucialmmorais" height="30" width="40" /></a>
+<a href="https://dribbble.com/lucialmmorais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="lucialmmorais" height="30" width="40" /></a>
 </p>
 
 <br>
