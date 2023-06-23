@@ -11,7 +11,6 @@
 
 - 💬 Talk to me about **Front-end Development using Html, Css, Js, Bootstrap.**
 
-- 📫 How to reach me **lucialmmorais@gmail.com**
 
 - ⚡ Fun fact **Coffee is life. ☕**
 
