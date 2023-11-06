@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript.**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/luxmitae](https://www.github.com/luxitavero)
+- 👨‍💻 All of my projects are available at [https://www.github.com/luxitavero](https://www.github.com/luxitavero)
 
 - 💬 Talk to me about **Front-end Development using Html, Css, Js, Bootstrap.**
 
