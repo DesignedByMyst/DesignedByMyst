@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript.**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://luxitavero.github.io/LuciaMorais-Portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://luxitavero.github.io/LuciaMoraisPortfolio/)
 
 - 💬 Talk to me about **Front-end Development using Html, Css, Js, Bootstrap.**
 
