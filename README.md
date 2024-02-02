@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Lúcia.👋</h1>
 <br>
-<h3 align="center">I'm from Portugal and I'm on a new path, changing my career and starting in the world of Web Design and Front-end Development.</h3>
+<h3 align="center">I'm from Portugal and I'm on a new path, changing my career and starting in the world of Web and Graphic Design.</h3>
 <br>
 <hr>
 <br>
