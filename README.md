@@ -17,10 +17,10 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/lucia4morais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucia4morais" height="30" width="40" /></a>
-<a href="https://www.behance.net/lucia4morais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucia4morais" height="30" width="40" /></a>
-<a href="https://twitter.com/lmcodesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lmcodesigns" height="30" width="40" /></a>
-<a href="https://instagram.com/lmcodesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lmcodesigns" height="30" width="40" /></a>
-<a href="https://pinterest.com/lmcodesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="lmcodesigns" height="30" width="40" /></a>
+<a href="https://www.behance.net/luxytianna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luxytianna" height="30" width="40" /></a>
+<a href="https://twitter.com/luxytianna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luxytianna" height="30" width="40" /></a>
+<a href="https://instagram.com/luxytianna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luxytianna" height="30" width="40" /></a>
+<a href="https://pinterest.com/luxytianna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="luxytianna" height="30" width="40" /></a>
 </p>
 
 <br>
