@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Cristiana.👋</h1>
+<h1 align="center">Hi there, I'm Lúcia.👋</h1>
 <br>
 <h3 align="center">I'm from Portugal and I'm on a new path, changing my career and starting in the world of Web and Graphic Design.</h3>
 <br>
 <hr>
 <br>
 
-- 🌱 I’m currently learning **Javascript.**
+- 🌱 I’m currently learning **PHP & MySQL.**
 
 - 💬 Talk to me about **Front-end Development using Html, Css, Js, Bootstrap.**
 
@@ -16,11 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/lucia4morais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucia4morais" height="30" width="40" /></a>
-<a href="https://www.behance.net/luxytianna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luxytianna" height="30" width="40" /></a>
-<a href="https://twitter.com/luxytianna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luxytianna" height="30" width="40" /></a>
-<a href="https://instagram.com/luxytianna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luxytianna" height="30" width="40" /></a>
-<a href="https://pinterest.com/luxytianna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="luxytianna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/designedbymyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="designedbymyst" height="30" width="40" /></a>
+<a href="https://www.behance.net/deignedbymyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="designedbymyst" height="30" width="40" /></a>
+<a href="https://instagram.com/designedbymyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="designedbymyst" height="30" width="40" /></a>
+<a href="https://pinterest.com/designedbymyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="designedbymyst" height="30" width="40" /></a>
 </p>
 
 <br>
